@@ -20,8 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-Add `require "allballs/time"`, if you want a `Time.allballs` alias for epoch.
-Add `require "allballs/integer"`, if you want an integer `allballs` alias for `0`.
+* Add `require "allballs/time"`, for `Time.allballs` alias for epoch.
+* Add `require "allballs/integer"`, for `allballs` alias for integer `0`.
 
 ## Development
 
