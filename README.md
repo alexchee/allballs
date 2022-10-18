@@ -1,6 +1,6 @@
 # Allballs
 
-Adds `allballs` alias for zero and `Time.allballs`. Why not?
+Adds `allballs` for zero alias and `Time.allballs` for epoch alias. Why not?
 
 ## Installation
 
